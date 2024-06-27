@@ -1,3 +1,4 @@
+#List of integers and returns a sum
 def sum_elements(arr):
     total = 0
     for element in arr:
